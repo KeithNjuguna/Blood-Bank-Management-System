@@ -1,6 +1,3 @@
-# BloodManagement
-A simple system that enables users to manage blood being donated.
-Languages used are C# for the form application system.
-IDE used Visual Studio.
-Ms sql for the database.
-I will add a snapshot for the database for viewing later.
+Blood Bank Management System--
+A simple c# form application that enables hospital admins to enter donor data.
+Uses Microsoft SQL as a database used Visual Studio to create the form application.
